@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#B3FFFFFF" /> <!-- #B3 表示 70% 透明度，#FFFFFF 表示白色 -->
+    <corners android:radius="16dp"/> <!-- 这里可以根据需要调整圆角半径 -->
+</shape>
